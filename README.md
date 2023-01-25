@@ -1,1 +1,1 @@
-# CheapShop
+# CheapShop eCommerse Platform
