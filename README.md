@@ -31,7 +31,7 @@ Also, when importing a file (not a package), be sure to add .js at the end or yo
 You can also install and setup Babel if you would like
 
 ## ENV variables 
-> Create a .env file in the root and add the following into this
+> Create a .env file in the root and add the following into this <br>
 
 NODE_ENV=development<br>
 PORT=5000<br>
@@ -54,7 +54,7 @@ npm install <br>
   npm run dev
 
 > Run backend only<br>
-  npm run server
+  npm run server<br>
   
 ## Build and Deploy
 > Create frontend production build<br>
@@ -62,7 +62,7 @@ npm install <br>
  npm run build<br>
  
 ## Seed Database
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
+You can use the following commands to seed the database with some sample users and products as well as destroy all data<br>
 
 > Import data
 npm run data:import<br>
@@ -72,7 +72,7 @@ npm run data:destroy<br>
 
 ### Sample user login
 > admin@example.com (Admin)
-Password ( I can't provide )
+Password ( I can't provide )<br>
 > amit@gmail.com
 password :amit
 
