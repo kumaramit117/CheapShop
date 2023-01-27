@@ -1,7 +1,7 @@
-# CheapShop eCommerse Website
+# CheapShop eCommerse Platform
 This eCommerse website built using MERN stack and Redux.<br>
-Here are the Snapshot of home page of this application.<br>
-For more detailes see screenshot folder above.<br>
+Here are the Snapshot of home page of this application.<br><br>
+For more details see **screenshot** folder above.<br>
 #### Homepage screenshot
 <img width="341" alt="homepagecheapshop" src="https://user-images.githubusercontent.com/123208927/214512172-7512fb3f-7ba7-4a2e-bf41-bbbed899e353.PNG">
 
@@ -17,7 +17,7 @@ For more detailes see screenshot folder above.<br>
 * Admin Order details page
 * Mark orders as delivered option
 * Checkout process (shipping, payment method, etc)
-* PayPal / credit card integration
+* **PayPal / credit** card integration
 * Database seeder (products & users)
 
 ## Usage
